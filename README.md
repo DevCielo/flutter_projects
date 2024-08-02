@@ -7,7 +7,7 @@ Welcome to my Flutter Projects Hub! This repository serves as a central place wh
 ### 1. Basic Todos App with Riverpod
 **Description:** A simple todos app developed to learn Riverpod and state management in Flutter. This project demonstrates how to manage state effectively using Riverpod.
 
-**Repository Link:** [Basic Todos App](https://github.com/your-username/basic-todos-app)
+**Repository Link:** [Basic Todos App](https://github.com/DevCielo/todos_app)
 
 ## How to Use
 
