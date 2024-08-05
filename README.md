@@ -12,7 +12,7 @@ Welcome to my Flutter Projects Hub! This repository serves as a central place wh
 ### 2. [WIP] Basic Social Media App
 **Description:** A basic social media app that allows users to post tweets, change their profile picture, and update their name. This project focuses on fundamental social media functionalities and user profile management.
 
-**Repository Link:** [Basic Social Media App](https://github.com/DevCielo/social_media_app)
+**Repository Link:** [Basic Social Media App](https://github.com/DevCielo/social_media)
 
 ## How to Use
 
