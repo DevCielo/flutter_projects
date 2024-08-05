@@ -9,6 +9,11 @@ Welcome to my Flutter Projects Hub! This repository serves as a central place wh
 
 **Repository Link:** [Basic Todos App](https://github.com/DevCielo/todos_app)
 
+### 2. [WIP] Basic Social Media App
+**Description:** A basic social media app that allows users to post tweets, change their profile picture, and update their name. This project focuses on fundamental social media functionalities and user profile management.
+
+**Repository Link:** [Basic Social Media App](https://github.com/DevCielo/social_media_app)
+
 ## How to Use
 
 - Click on the repository link for any project you are interested in to visit its dedicated repository.
@@ -27,4 +32,3 @@ All these projects are open source and free to use unless otherwise specified.
 ---
 
 Thank you for visiting my Flutter Projects Hub. I hope you find my projects informative and useful!
-
